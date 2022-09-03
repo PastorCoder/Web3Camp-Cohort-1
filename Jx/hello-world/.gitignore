@@ -1,0 +1,4 @@
+node_modules
+
+# ignore the file literally named note[01].txt
+note\[01\].txt
